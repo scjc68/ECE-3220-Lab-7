@@ -40,7 +40,7 @@ class Message
 		// }
 };
 
-Message::Message()    //not called because I did it the way we discussed previously with just the parametric constructor
+Message::Message()    //not called because I did it the way we discussed previously with just the parametric constructor   
 {
 	string beginmsg="";
 	// while(beginmsg=="")
